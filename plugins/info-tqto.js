@@ -3,18 +3,21 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
 
 let str = `
 *T H A N K S - TO*
+- Tuhan Yang Maha Esa
 - Zyko - Md (Developer)
-- Aldi Lesmana (Mastah)
-- WH-MODS-DEV (Mastah)
-- XTRAM-TEAM (Mastah)
-- Axell (Perecode)
-- La Divaa (Penyemangat Axell)
+- Aldi Lesmana (Master)
+- WH-MODS-DEV (Master)
+- XTRAM-TEAM (Master)
+- Onion Development Team (Recoder)
 
-*Project BOT* : 21 December 2022
-_this bot was redeveloped by axel who recoded some of the features and menus of the bot_
+*Project BOT* : 1 Juli 2023
+_This bot was redeveloped by Onion Development Team who recoded some of the features and menus of the bot_
 
 *Owner Contact* :
-wa.me/6288289338073`
+wa.me/6285892710203,
+
+*Co Owner Contact* :
+wa.me/6285750823860`
 conn.sendMessage(m.chat, {
 text: str,
 contextInfo: {
