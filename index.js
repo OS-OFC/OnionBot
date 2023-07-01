@@ -26,7 +26,7 @@ say("SHINNV3 EV3.0", {
   align: "center",
   colors: ["red", "yellow"]
 })
-say("Shinn EV3.0 (Public Bot) By @Axell", {
+say("Onion Bot By Onion Development", {
   font: "console",
   align: "center",
   colors: ["green"]
