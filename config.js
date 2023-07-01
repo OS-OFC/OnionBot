@@ -41,31 +41,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // if you don't have it, type "-" or leave it alone so there are credits :v
 
-global.sig = 'https://instagram.com/syaald1vaa'
-global.sgh = 'https://github.com/AxellDxDs'
-global.sgc = 'https://chat.whatsapp.com/ECjzXJNMo1DGuGNVciAZXf'
-global.sdc = 'https://www.discord.com/hentaiserver'
-global.snh = 'https://youtu.be/axellxyzz'
-global.sfb = 'https://www.facebook.com/FutaXyz'
-global.syt = 'https://youtube.com/@axellxyzz'
+global.sig = '-'
+global.sgh = 'https://github.com/Onion-Development'
+global.sgc = 'https://chat.whatsapp.com/Is8EcsqQoF27uMqAstXEjQ'
+global.sdc = 'https://discord.gg/nWdGBdt2xs'
+global.snh = 'https://youtu.be/-'
+global.sfb = '-'
+global.syt = 'https://youtube.com/-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088280338073'
-global.povo = '088280338073'
-global.pgopay = '088280338073'
-global.plinkaja = '088280338073'
-global.ppulsa = '088280338073' 
-global.ppulsa2 = '085811073032'
-global.psaweria = 'https://saweria.co/-'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '-'
+global.plinkaja = '-'
+global.ppulsa = '085892710203' 
+global.ppulsa2 = '-'
+global.psaweria = 'https://saweria.co/BlueShi'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285811073032'
-global.nomorown = '6288289338073'
-global.namebot = 'Shinn EV3.0 (Public Bot)'
-global.nameown = 'Axell'
+global.nomorbot = '6285892710203'
+global.nomorown = '62858927102031'
+global.namebot = 'Onion Bot'
+global.nameown = 'Purwandani'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'AxellDxDs'
+global.namagithub = 'Onion Development'
 global.linkgithub = sgh
 
 /*============== CREATE PANEL ==============*/
@@ -80,11 +80,8 @@ global.lolkey = pickRandom(["e54205a4ca2caa368cc067bb", "8e66d0934cf741bfd2182c1
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288289338073', 'Axell', true],
-  ['6285811073032', 'Shinn', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true]
+  ['6285892710203', 'Purwandani', true],
+  ['6285750823860', 'Dave', true]
 ]
 global.mods = [] 
 global.prems = [] 
@@ -130,15 +127,15 @@ global.APIKeys = {
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Shinn EV3.0 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ Shinn EV3.0 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "⫹⫺ Shinn EV3.0"
+global.wm = '                「 Onion Bot 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ Onion Bot ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = "⫹⫺ Onion Bot"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ZYKO MD`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Onion Development`
 global.packname = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "Shinn EV3.0 乂 Axell"
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴀxᴇʟʟ ッ'
+global.author = "Onion Bot 乂 Onion Development"
+global.footer = 'Multi Purpose WhatsApp Bot Made By Onion Development ッ'
 /*Fake*/
 global.fsizedoc = SizeDoc()
 global.fpagedoc = PageDoc()
@@ -152,12 +149,11 @@ global.thumb = ImgEstetik()
 global.imagebot = ImgMountain()
 global.giflogo = VideoGalau()
 global.thumbs = ImgBoneka()
-global.donasi = 'https://telegra.ph/file/980b183cc268c2991bdd3.jpg'
+global.donasi = '-'
 global.pilihan = 'https://telegra.ph/file/64c2ba179bfd4a5d9a949.jpg'
 global.menu = 'https://telegra.ph/file/2ab02336764d7c384a6c9.jpg'
-global.zykomd = 'https://telegra.ph/file/a4356c1b5097ef32e87c0.jpg'
-global.fla = 'https://telegra.ph/file/9cc48b21c6eda65133682.jpg'
-global.brocas = "https://telegra.ph/file/cc1cca5db80d023cd470b.jpg"
+global.zykomd = 'https://telegra.ph/file/2824d2ea957b1882a30d4.png'
+global.brocas = "https://telegra.ph/file/fe3d59970a7bdecd4e419.png"
 global.thumbnailUrl = ImgBoneka()
 global.emojis = pickRandom(["🀄️",
 "🃏",
@@ -3526,7 +3522,7 @@ global.hwaifu2 = ImgWaifu()
 /*============== HENTAI ==============*/ 
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
-global.premnsfw = true // Nsfw Mode Premium?
+global.premnsfw = false // Nsfw Mode Premium?
 
 
 //Ini cuma simpenan owner kok :v
@@ -3580,8 +3576,8 @@ global.htjava = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", 
 global.hsquere = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"])
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Shinn EV3.0'
-global.stickauth = `By ©Axell`
+global.stickpack = 'Onion Bot'
+global.stickauth = `By ©Onion Development`
 
 global.multiplier = 69 
 /*============== EMOJI ==============*/
