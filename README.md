@@ -15,7 +15,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Aldi-Ganz-Offc/YushinoMdV4
+$ git clone https://github.com/Onion-Development/OnionBot
 $ cd YushinoMdV4
 $ npm i 
 ```
@@ -74,8 +74,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/Aldi-Ganz-Offc/YushinoMdV4
-cd YushinoMdV4
+git [https://github.com/Aldi-Ganz-Offc/YushinoMdV4](https://github.com/Onion-Development/OnionBot)
+cd OnionBot
 npm install
 npm update
 ```
