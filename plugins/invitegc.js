@@ -9,8 +9,8 @@ var groupInvite = generateWAMessageFromContent(m.chat, proto.Message.fromObject(
 "groupJid": "120363044585298853@g.us",
 "inviteCode": "k4hEiLw6EJqtj",
 "inviteExpiration": `99999999999`,
-"groupName": "ZYKO BOTZ MD",
-"caption": `Iya Halo Bang, Kenpa?`,
+"groupName": "Onion Development",
+"caption": `Iya Halo Bang, Kenapa?`,
 "jpegThumbnail": messaa.imageMessage,
 }
 }), { userJid: m.chat, quoted: global.ftroli })
